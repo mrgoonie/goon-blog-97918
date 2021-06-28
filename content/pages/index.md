@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Goon's Blog
+  title: Goon - Lẩu công nghệ
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
