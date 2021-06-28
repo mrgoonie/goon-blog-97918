@@ -4,7 +4,9 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Goon - Lẩu công nghệ
-  description: The preview of the Fjord theme
+  description: >-
+    Goon tập làm đầu bếp, nhưng không phải nấu ăn, mà là nấu các món công nghệ,
+    dễ như nấu lẩu vậy!
   extra:
     - name: 'og:type'
       value: website
