@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Goon - Lẩu công nghệ
+  title: Chief Goon - Lẩu công nghệ
   description: >-
     Goon tập làm đầu bếp, nhưng không phải nấu ăn, mà là nấu các món công nghệ,
     dễ như nấu lẩu vậy!
