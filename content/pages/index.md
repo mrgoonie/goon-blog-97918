@@ -15,7 +15,7 @@ seo:
       value: Chief Goon - Lẩu công nghệ
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: 'Mình tập làm đầu bếp nấu các món-công-nghệ, dễ như nấu lẩu vậy!'
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
